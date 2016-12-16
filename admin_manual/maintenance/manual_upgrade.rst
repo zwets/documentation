@@ -51,7 +51,9 @@ The other way is by entering your ``config.php`` file and changing
 9. Adjust file ownership and permissions
 
     chown -R www-data:www-data nextcloud
+
     find nextcloud/ -type d -exec chmod 750 {} \;
+
     find nextcloud/ -type f -exec chmod 640 {} \;
 
 10. Restart your Web server.
