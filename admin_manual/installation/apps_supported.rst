@@ -32,6 +32,7 @@ AGPL Apps
 * Object Storage (Swift)
 * Password Policy
 * Provisioning API
+* SharePoint
 * Template Editor (for notification emails)
 * Theming
 * Update Notifications
