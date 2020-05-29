@@ -69,8 +69,9 @@ The Nextcloud user interface contains the following fields and functions:
   your server. Dependent on the given details and available apps, you can
   directly start a video call with them or send emails.
 
-* **Gallery** button (8). This looks like four little squares, and takes you
-  directly to your image gallery.
+* **Grid view** button (8). This looks like four little squares, shows your files
+  and folders in a grid view. This is especially useful to show thumbnails in a folder
+  full of photos.
 
 * **Settings** menu (9): Click on your profile picture,
   located to the right of the Search field, to open your Settings

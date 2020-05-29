@@ -133,7 +133,7 @@ Only the data in your files is encrypted, and not the filenames or folder
 structures. These files are never encrypted:
 
 - Old files in the trash bin.
-- Image thumbnails from the Gallery app.
+- Image thumbnails from the Photos app.
 - Previews from the Files app.
 - The search index from the full text search app.
 - Third-party app data
